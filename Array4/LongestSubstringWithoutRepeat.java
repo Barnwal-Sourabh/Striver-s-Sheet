@@ -1,5 +1,7 @@
 public class LongestSubstringWithoutRepeat {
-    
+    public static void main(String[] args) {
+        
+    }
     public int lengthOfLongestSubstring(String s) {
         int ans = 0;
         int n = s.length();
