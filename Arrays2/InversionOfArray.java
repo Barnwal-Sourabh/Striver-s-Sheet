@@ -64,5 +64,5 @@ public class InversionOfArray {
 
     public static long getInversions(long arr[], int n) {
         return mergeSort(arr, 0, n - 1);
-    }
+    }   
 }
