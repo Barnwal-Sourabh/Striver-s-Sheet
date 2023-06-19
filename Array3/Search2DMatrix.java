@@ -1,4 +1,3 @@
-package Array3;
 
 public class Search2DMatrix {
     public boolean searchMatrix(int[][] matrix, int target) {

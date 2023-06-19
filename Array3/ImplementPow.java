@@ -1,8 +1,4 @@
-package Array3;
 
-/**
- * ImplementPow
- */
 public class ImplementPow {
 
     public static int[] findMissingRepeatingNumbers(int[] a) {
