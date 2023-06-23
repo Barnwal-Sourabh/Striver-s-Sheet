@@ -4,6 +4,9 @@ package Arrays2;
  * RepeatAndMissingNumber
  */
 public class RepeatAndMissingNumber {
+    public static void main(String[] args) {
+        
+    }
     // DO NOT MODIFY THE ARGUMENTS WITH "final" PREFIX. IT IS READ ONLY
     public int[] repeatedNumber(final int[] a) {
         
