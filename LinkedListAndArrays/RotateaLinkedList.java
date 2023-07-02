@@ -1,4 +1,4 @@
-package LinkedListAndArrays;
+
 
 class ListNode {
     int val;

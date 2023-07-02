@@ -1,4 +1,4 @@
-package LinkedListAndArrays;
+
 
 public class TrappingRainwater {
     public int trap(int[] height) {

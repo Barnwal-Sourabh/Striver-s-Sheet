@@ -1,4 +1,4 @@
-package LinkedListAndArrays;
+
 
 public class RemoveDuplicatesfromSortedArray {
     public int removeDuplicates(int[] nums) {
