@@ -1,4 +1,4 @@
-package GreedyAlgorithm;
+
 
 /**
  * MinimumNumberOfPlatforms

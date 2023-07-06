@@ -1,4 +1,4 @@
-package GreedyAlgorithm;
+
 
 import java.util.*;
 class meeting {
